@@ -17,14 +17,14 @@ for(int i =0; i<=2; i++){
             System.out.println(s1.nextElement());
 
         }
-        System.out.println("***********************");
+       
     }else if(i==1){
         StringTokenizer s1 = new StringTokenizer(str," ");
         while (s1.hasMoreElements()){
             System.out.println(s1.nextElement());
 
         }
-        System.out.println("********************");
+        
     }else if(i==2){
 
         StringTokenizer s1 = new StringTokenizer(str,".");
@@ -32,7 +32,7 @@ for(int i =0; i<=2; i++){
             System.out.println(s1.nextElement());
         }
     }
-
+ System.out.println("***********************");
 }
     }
 }
