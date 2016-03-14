@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 public class Main {
     public static void main(String[] args) {
 
-
+    //This is very unreadable code. Try to find out another way. You should use 3 delimers in every period of time. Not one by one.
         String str = "This is String, split by StringTokenizer. Created by Student:Name of Student";
 for(int i =0; i<=2; i++){
     if(i==0){
